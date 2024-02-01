@@ -32,7 +32,7 @@ cursor: pointer;
     transform: scale(1.5);
     transition: transform 3s ease; 
     animation: colorChange 2s infinite;
-    box-shadow: 10px ;
+   
 }
 
   
