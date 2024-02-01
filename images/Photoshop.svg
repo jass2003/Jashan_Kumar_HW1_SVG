@@ -18,7 +18,7 @@ svg:hover  {
     transform: rotate(360deg) scale(2);
     transition: transform 2s ease-in-out; 
     animation: scaleUpDownWithShadow 2s ease-in-out infinite; 
-    box-shadow: 10px ;
+   
     }
  @keyframes  scaleUpDownWithShadow{
  0% {
