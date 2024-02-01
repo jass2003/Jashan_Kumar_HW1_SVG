@@ -50,7 +50,7 @@ cursor: pointer;
 
       
       function logMyId() {        
-        console.log("You clicked on the Adobe Express icon");
+        console.log("What's going on! Why are you clicking these??????????????????");
       }
 
      

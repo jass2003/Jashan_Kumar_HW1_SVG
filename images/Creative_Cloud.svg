@@ -25,7 +25,7 @@ cursor: pointer;
 
       
       function logMyId() {        
-        console.log("You clicked on the Adobe Creative Cloud icon");
+        console.log("HEy you clicked on this item why though!");
       }
 
      

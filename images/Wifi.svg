@@ -112,7 +112,7 @@ const vectorGraphic = document.querySelector('#Wifi_1');
 
 function logThisId() {
     console.log(this);
-    console.log('Congrats your connection is solid!:', this.id);
+    console.log('Well i guess your connection is solid!:', this.id);
 }
 
 vectorGraphic.addEventListener('click', logThisId);
