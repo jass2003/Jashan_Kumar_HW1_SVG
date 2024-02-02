@@ -7,8 +7,8 @@
 
 svg {
     
-    width: 200px; /* Set the initial width */
-    transition: width 0.3s ease; /* Add a smooth transition effect */
+    width: 200px; 
+    transition: width 0.3s ease;
 }
 
 svg:hover {
