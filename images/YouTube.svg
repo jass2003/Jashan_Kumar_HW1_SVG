@@ -26,7 +26,7 @@ svg:hover {
 
       
       function logMyId() {        
-        console.log("Wnna watch some youtube?");
+        console.log("Wanna watch some youtube?");
       }
 
      

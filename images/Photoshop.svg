@@ -42,11 +42,12 @@ svg:hover  {
 
       
       function logMyId() {        
-        console.log("Still doing the same thing"uhh"get a life dude );
+        console.log("Still doing the same thing uhh get a life dude" );
       }
 
      
       document.addEventListener('click', logMyId);
+
       </script>
 
 

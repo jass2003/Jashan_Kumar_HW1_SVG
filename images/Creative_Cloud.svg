@@ -25,7 +25,7 @@ cursor: pointer;
 
       
       function logMyId() {        
-        console.log("HEy you clicked on this item why though!");
+        console.log("Hey you clicked on this item why though!");
       }
 
      
